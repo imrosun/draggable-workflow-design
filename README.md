@@ -1,5 +1,10 @@
 This is a [React and Express](https://react.dev/) project bootstrapped with [`create-react-app`]
 
+- TypeScript
+- Tailwindcss
+- Zustand 
+- Framer motion
+
 ## Getting Started
 
 First, clone the repository:
@@ -31,7 +36,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Screenshots:
 
-![Dashboard](images/workflow-page.png)
+![Dashboard](images/workflow-page-updated.png)
+![Dashboard](images/cv-upload.png)
 
 ### `npm run build`
 
