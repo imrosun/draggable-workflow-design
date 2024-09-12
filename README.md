@@ -1,6 +1,4 @@
-# Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a [React and Express](https://react.dev/) project bootstrapped with [`create-react-app`]
 
 ## Getting Started
 
@@ -8,26 +6,32 @@ First, clone the repository:
 
 ## Available Scripts
 
-In the project directory, go to terminal:
-### `cd client`
-### `npm install`
-### `npm start`
+In the project directory, go to terminal and write command to start backend:
 
-Open new terminal
-### `cd server`
-### `npm install`
-### `node server.js`
+```bash
+cd server
+# Install dependencies
+npm install
+# Run the development server
+npm node server.js
+```
+
+Open new terminal and write command to start frontend:
+
+```bash
+cd client
+# Install dependencies
+npm install
+# Run the development server
+npm start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Screenshots:
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Dashboard](images/workflow-page.png)
 
 ### `npm run build`
 
