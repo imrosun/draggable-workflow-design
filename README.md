@@ -5,6 +5,9 @@ This is a [React and Express](https://react.dev/) project bootstrapped with [`cr
 - Zustand 
 - Framer motion
 
+[![Watch the video]](https://drive.google.com/file/d/1W3Nc4qQ-pT_4K3UbMHh2qVEeju7PbQIC/view?usp=drive_link)
+
+
 ## Getting Started
 
 First, clone the repository:
@@ -37,7 +40,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## Screenshots:
 
 ![Dashboard](images/workflow-page-updated.png)
-![Dashboard](images/cv-upload.png)
+![Dashboard](images/csv-upload.png)
 
 ### `npm run build`
 
